@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - meteor
+  - solar
+  - battery
+  - tile
+  - camera
+  - tool
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Station
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Visual
+    uniqueID: 3780218025
+    locked: 0
+  - name: Background
+    uniqueID: 1442667821
+    locked: 0
+  - name: Furnature
+    uniqueID: 2140402323
+    locked: 0
+  - name: Player
+    uniqueID: 2776339505
+    locked: 0
+  - name: Foreground
+    uniqueID: 659861491
+    locked: 0
+  - name: Front Visual
+    uniqueID: 1667358805
+    locked: 0
+  - name: Icons
+    uniqueID: 2588079921
+    locked: 0
